@@ -54,5 +54,5 @@ def dance_routine(duration_seconds=10, speed=0.3):
         print("\nDance interrupted!")
 
 if __name__ == "__main__":
-    dance_routine(duration_seconds=4, speed=0.25)
+    dance_routine(duration_seconds=4, speed=0.10)
 
