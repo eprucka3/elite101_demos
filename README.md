@@ -2,6 +2,11 @@
 
 ## Stick Figure Dance
 
+### Run Instructions:
+
 ```
-python char_demo.py
+python3 char_demo.py
 ```
+
+### Demo GIF:
+![Dancing Character](gifs/dancing_character.gif)
