@@ -1,14 +1,7 @@
 # Demos and walkthroughs for the Elite101 Code2College Class.
 
-TODO: How to run python example
+## Stick Figure Dance
 
-
-## Day 1 at my startup
-Today I joined my squad and made my first commit. Excited to start building.
-
-table = """
-| Name | Role |
-| ---- | ---- |
-| Liz | Founder |
-| ...  | ... |
-"""
+```
+python char_demo.py
+```
